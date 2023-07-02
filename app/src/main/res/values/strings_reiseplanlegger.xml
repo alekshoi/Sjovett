@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="ChooseRoute">Angi rute:</string>
+    <string name="SpeedInKnots">\Antall knop: \</string>
+    <string name="StartFromCurrentPosition">Start fra egen posisjon</string>
+    <string name="StartRoute">Start rute</string>
+    <string name="RemoveMarker">Fjern punkt</string>
+    <string name="End">Avslutt</string>
+    <string name="Boat">Båt</string>
+    <string name="AddMarkers">Du må legge til to markører for å få en rute</string>
+    <string name="ReiseplanleggerScreenName">Reiseplanlegger</string>
+    <string name="DisplayedTextWhenSpeedNull">Du vil ikke komme fram hvis du kjører 0 knop</string>
+    <string name="DisplayedTextWhenNotTwoMarkers">Du kan legge til en destinasjon ved å holde inne et sted på kartet.</string>
+
+    <string name="InfoTextReiseplanlegger">Hold inne på kartet for å legge til markører. Sveip opp for å planlegge reisen. NB! Denne reiseplanleggeren tar ikke hensyn til skjær og grunner. Rute planlegges på eget ansvar.</string>
+
+    <string name="TextBoxReiseplanlegger">Hold inne på kartet for å legge til markører. Sveip opp for å planlegge reisen.\n
+            NB! Denne reiseplanleggeren tar ikke hensyn til skjær og grunner. Rute planlegges på eget ansvar</string>
+
+</resources>
