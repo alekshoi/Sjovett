@@ -1,18 +1,36 @@
-Throughout several months, we embarked on a software engineering school project that challenged us to design and develop an innovative application. Our task involved integrating three distinct APIs into a cohesive mobile app, resulting in the creation of the project we have extensively discussed.
+# Sjøvett - Enhancing Safety and Experience at Sea
 
-This project served as a platform for us to apply our software engineering skills and demonstrate our proficiency in working with APIs. Over the course of its development, we meticulously crafted a user-friendly and feature-rich application that showcases the seamless integration of these APIs.
+Welcome to the Sjøvett application, developed to improve user safety and experience while at sea. This mobile app encompasses various functionalities, all aimed at empowering boat users with valuable tools and information. The application consists of six distinct pages, each serving a specific purpose:
 
-The primary objective was to leverage the functionalities provided by the APIs to enhance the overall user experience and provide valuable features to our app's target audience. Through careful planning, extensive research, and countless iterations, we successfully achieved this goal.
+- Mann-over-bord (Man Overboard): This feature provides assistance in emergency situations by guiding users on how to handle a man overboard scenario effectively.
+- Stormvarsel (Storm Warning): Stay informed about weather conditions with this feature, which offers real-time storm warnings and forecasts to ensure safe navigation.
+- Reiseplanlegger (Trip Planner): Plan your trips efficiently using this tool, allowing you to map out your route and calculate estimated time of arrival.
+- Sjøvettregler (Sea Safety Rules): Access a comprehensive collection of sea safety rules and guidelines to ensure responsible and safe behavior at sea.
+- Livredning (Lifesaving): This feature equips users with essential lifesaving techniques and instructions to respond effectively to critical situations.
+- Sjømerker (Sea Marks): Gain knowledge about various sea marks and navigational aids through this informative resource.
+
+The integration of the Mann-over-bord, Stormvarsel, and Reiseplanlegger functionalities will be referred to throughout this document as the core features of Sjøvett. The remaining tools, Sjøvettregler, Livredning, and Sjømerker, collectively form the supplementary tools provided within the application.
+
+## About the Project
+Throughout several months, we embarked on a software engineering school project that challenged us to design and develop an innovative application. Our task involved integrating three distinct APIs into a cohesive mobile app, resulting in the creation of this project.
+
+This project served as a platform for us to apply our software engineering skills and demonstrate our proficiency in working with APIs, as well as Android Studio. Over the course of its development, we crafted a user-friendly and feature-rich application that showcases the integration of these APIs.
+
+The primary objective was to leverage the functionalities provided by the APIs to enhance the overall user experience and provide valuable features to boat users. Through careful planning, extensive research, and countless iterations, we successfully achieved this goal.
 
 As a testament to our dedication and perseverance, the resulting app showcases a seamless fusion of technologies, offering a wide range of practical features and a polished user interface. We are excited to present the culmination of our efforts and share the outcome of this school project in the form of our remarkable application.
 
-This is the case we chose: https://in2000.met.no/2023/5-opencase-hav 
+To gain a better understanding of our project, we chose the following case as the basis for our application: https://in2000.met.no/2023/5-opencase-hav. 
+
+## Screenshots
+Here are some screenshots from the Sjøvett application:
 
 
-Here are some screenshots from the application: 
 
+## Getting Started
+To explore the full functionality of Sjøvett and experience its valuable features, please refer to installation guide.
 
-
+We appreciate your interest in our project and hope that Sjøvett enhances your safety and enjoyment during your sea adventures. If you have any questions or feedback, please feel free to reach out to us.
 
 
 Installation guide
