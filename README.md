@@ -1,18 +1,34 @@
+Throughout several months, we embarked on a software engineering school project that challenged us to design and develop an innovative application. Our task involved integrating three distinct APIs into a cohesive mobile app, resulting in the creation of the project we have extensively discussed.
 
-Installasjonsguide:
+This project served as a platform for us to apply our software engineering skills and demonstrate our proficiency in working with APIs. Over the course of its development, we meticulously crafted a user-friendly and feature-rich application that showcases the seamless integration of these APIs.
 
-     1. Klon GitHub-prosjektet / Unzip prosjektmappen.
-     2. Åpne prosjektet i Android Studio.
-     3. Naviger deg til README.md.
-     4. Kopier de tre nøklene og lim dem inn nederst i local.properties.
-     5. Kopier dependencies og lim dem inn i build.gradle (Module: App). Du kan lime over andre dependencies som allerede ligger der.
-     6. Trykk på Sync Now i meldingen som kommer over kodeboksen.
-     7. Åpne Device Manager, trykk på Create device og velg Pixel 2 med API-level 28.
-     8. Start emulatoren, åpne Extended controls (tre prikker over hverandre)
-     9. Under Location dra kartet til Norge og trykk på et sted langs kysten. Trykk på SAVE POINT og deretter Set location.
-    10. Start appen med å trykke på den grønne pilen i menyen øverst.
+The primary objective was to leverage the functionalities provided by the APIs to enhance the overall user experience and provide valuable features to our app's target audience. Through careful planning, extensive research, and countless iterations, we successfully achieved this goal.
 
-legg inn i local.properties:
+As a testament to our dedication and perseverance, the resulting app showcases a seamless fusion of technologies, offering a wide range of practical features and a polished user interface. We are excited to present the culmination of our efforts and share the outcome of this school project in the form of our remarkable application.
+
+This is the case we chose: https://in2000.met.no/2023/5-opencase-hav 
+
+
+Here are some screenshots from the application: 
+
+
+
+
+
+Installation guide
+     1. Clone the GitHub project / Unzip the project folder.
+     2. Open the project in Android Studio.
+     3. Navigate to README.md.
+     4. Copy the three keys and paste them at the bottom of local.properties.
+     5. Copy the dependencies and paste them into build.gradle (Module: App). You can overwrite other dependencies already present there.
+     6. Click on Sync Now in the message that appears above the code box.
+     7. Open the Device Manager, click on Create device, and select Pixel 2 with API level 28.
+     8. Start the emulator, open Extended controls (three dots stacked on top of each other).
+     9. Under Location, drag the map to Norway and click on a location along the coast. Click on SAVE POINT and then Set location.
+     10. Start the app by clicking on the green arrow in the menu at the top.
+
+
+add to local.properties:
 
     GOOGLE_MAPS_API_KEY = AIzaSyCtUtAv6RFDzClFOc8LbxK5B5cRybtb1KI
     MET_KEY = dc1732ae-a8a0-4dd5-8052-26094bfbca11
