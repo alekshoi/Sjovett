@@ -2,14 +2,13 @@
 
 Welcome to the Sjøvett application, developed to improve user safety and experience while at sea. This mobile app encompasses various functionalities, all aimed at empowering boat users with valuable tools and information. The application consists of six distinct pages, each serving a specific purpose:
 
-- Mann-over-bord (Man Overboard): This feature provides assistance in emergency situations by guiding users on how to handle a man overboard scenario effectively.
+- Mann-over-bord (Man Overboard): This feature leverages wave and weather information to provide an estimated search area in a man overboard situation. By analyzing these factors, it helps determine the most likely location where a person fell overboard, optimizing search and rescue efforts."
 - Stormvarsel (Storm Warning): Stay informed about weather conditions with this feature, which offers real-time storm warnings and forecasts to ensure safe navigation.
 - Reiseplanlegger (Trip Planner): Plan your trips efficiently using this tool, allowing you to map out your route and calculate estimated time of arrival.
 - Sjøvettregler (Sea Safety Rules): Access a comprehensive collection of sea safety rules and guidelines to ensure responsible and safe behavior at sea.
 - Livredning (Lifesaving): This feature equips users with essential lifesaving techniques and instructions to respond effectively to critical situations.
 - Sjømerker (Sea Marks): Gain knowledge about various sea marks and navigational aids through this informative resource.
 
-The integration of the Mann-over-bord, Stormvarsel, and Reiseplanlegger functionalities will be referred to throughout this document as the core features of Sjøvett. The remaining tools, Sjøvettregler, Livredning, and Sjømerker, collectively form the supplementary tools provided within the application.
 
 ## About the Project
 Throughout several months, we embarked on a software engineering school project that challenged us to design and develop an innovative application. Our task involved integrating three distinct APIs into a cohesive mobile app, resulting in the creation of this project.
@@ -33,7 +32,7 @@ To explore the full functionality of Sjøvett and experience its valuable featur
 We appreciate your interest in our project and hope that Sjøvett enhances your safety and enjoyment during your sea adventures. If you have any questions or feedback, please feel free to reach out to us.
 
 
-Installation guide
+### Installation guide
      1. Clone the GitHub project / Unzip the project folder.
      2. Open the project in Android Studio.
      3. Navigate to README.md.
