@@ -25,16 +25,16 @@ To gain a better understanding of our project, we chose the following case as th
 Here are some screenshots from the Sjøvett application:
 
 #### Navigation Drawer
-<img width="300" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/f9f9b008-8190-4fe1-9a6c-48445df97fe6">
+<img width="250" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/f9f9b008-8190-4fe1-9a6c-48445df97fe6">
 
 #### Man Overboard
-<img width="300" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/1204ce2b-f896-4337-a57c-e6e340ea1046">
+<img width="250" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/1204ce2b-f896-4337-a57c-e6e340ea1046">
 
 #### Storm Warning
 <img width="300" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/4ee72f8e-2dd9-44dc-9c9a-8192f39d8513">
 
 #### Trip Planner
-<img width="300" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/f0811b9f-eb88-46d8-8e98-6d78e5a5e871">
+<img width="250" alt="image" src="https://github.com/alekshoi/Sjovett/assets/93198257/f0811b9f-eb88-46d8-8e98-6d78e5a5e871">
 
 
 ## Getting Started
