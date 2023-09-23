@@ -58,10 +58,11 @@ We appreciate your interest in our project and hope that Sjøvett enhances your 
 
 add to local.properties:
 You need to generate API-keys for the following values:
-    //GOOGLE_MAPS_API_KEY = 
-    //MET_KEY = 
-    //GEO_KEY = 
-    //SEAORLAND_KEY =
+
+- `GOOGLE_MAPS_API_KEY` =
+- `MET_KEY` =
+- `GEO_KEY` =
+- `SEAORLAND_KEY` =
 
 
 gradle.build:
